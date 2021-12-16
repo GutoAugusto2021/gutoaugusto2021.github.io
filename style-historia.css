@@ -1,0 +1,408 @@
+.row {
+    background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(238,238,238,1) 5%);
+height: 20%;
+}
+
+
+.logo {
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.titulo-senai {
+    position: absolute;
+    margin-top: -3%;
+    font-size: 10px;
+   margin-left: 11%;
+   font-family: 'Alatsi', sans-serif;
+   font-weight: bold;
+   
+}
+
+
+
+
+
+.cabeçalho-auxiliar {
+    background: rgb(239,35,60);
+background: linear-gradient(180deg, rgba(239,35,60,1) 0%, rgba(171,0,30,1) 100%);
+    height: 500px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.4);
+}
+
+.contato-titulo {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 1%;
+    margin-left: 24%;
+    color: white;
+    font-weight: bold;
+}
+
+.foto-primaria {
+    position: absolute;
+    border-style: none;
+    /* height: 100%;
+    width: 130%; */
+    margin-left: 75%;
+    /* border-bottom-right-radius: 25px; */
+}
+
+.senai-imagem {
+   /* height: 100%;
+   width: 130%; */
+   border-bottom-right-radius: 100% 30%;
+ 
+}
+
+.barra-contato {
+    margin-top: 4%;
+    border-radius: 0%;
+margin-left: 5%;
+height: 11.5%;
+background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 50%, rgba(238,238,238,1) 100%);
+box-shadow: 0 5px 5px rgba(0,0,0,.1);
+}
+
+.phone {
+    color: rgb(239,35,60);   
+}
+
+.telefone {
+    position: absolute;
+    margin-top: -4.7%;
+    color: rgb(239,35,60);  
+    margin-left: 6%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.email {
+   margin-left: 45%;
+   color: rgb(239,35,60); 
+}
+
+.email-texto {
+    position: absolute;
+    margin-top: -4.9%;
+    color: rgb(239,35,60);  
+    margin-left: 53%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.video-titulo {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 11%;
+    color: rgb(255, 255, 255);
+    margin-top: 7%;
+}
+
+/* .senai-background {
+    height: 370%;
+    width: 370%;
+    opacity: 60%;
+    margin-left: -44%;
+    margin-top: -34%;
+    
+} */
+
+.senai-background {
+    background-image: url(16994733050_3821e0a8db_b.jpg);
+    height: 200%;
+    width: 200%;
+    margin-top: -15.5%;
+    margin-left: -71.4%;
+    filter: blur(4px);
+    opacity: 40%;
+}
+
+.trailer {
+    margin-left: 15%;
+    box-shadow: 0 5px 5px rgba(0,0,0,.2);
+}
+
+.texto {
+    margin-top: 16%;
+    margin-left: 25%;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+  color: rgb(255, 255, 255);
+    text-shadow: 3px 0px 3px rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.paragrafo-1 {
+    margin-bottom: 5%;
+   
+}
+
+.paragrafo-2 {
+    margin-bottom: 5%;
+
+}
+
+.paragrafo-3 {
+    margin-bottom: 5%;
+   
+}
+
+.paragrafo-4 {
+    margin-bottom: 5%;
+   
+}
+
+.paragrafo-5 {
+    margin-bottom: 5%;
+}
+
+.titulo {
+    margin-left: 31%;
+    margin-bottom: 5%;
+    font-family: 'Fredoka One', cursive;
+}
+
+.rodape {
+    background: rgb(239,35,60);
+    background: linear-gradient(180deg, rgba(239,35,60,1) 0%, rgba(171,0,30,1) 100%);
+        height: 300px;   
+         position: absolute;
+         margin-top: -13%;
+}
+
+.rodape-titulo {
+    margin-left: 39%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-right: 2%;
+    margin-top: 5%;
+    font-size: 33px;
+    color: white;
+}
+
+.perfil {
+    margin-left: 38%;
+    margin-top: 3%;
+}
+
+.sr-only {
+    margin-left: 42%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+.botão {
+    margin-left: 38%; 
+    margin-top: 3%;
+}
+
+.imagem-modal {
+    height: 20%;
+    width: 20%;
+}
+
+.titulo-senai-modal {
+   font-size: 10px;
+   margin-top: 2%;
+   margin-left: 1%;
+   font-family: 'Alatsi', sans-serif;
+   font-weight: bold;
+}
+
+.modal-comentario {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-left: 23%;
+}
+
+.feedback-comentario {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.digite-seu-nome {
+    margin-top: 5%;
+}
+
+.copyright-rodape {
+    font-size: 15px;
+    margin-left: 40%;
+    margin-top: 3%;
+    color: white;
+}
+
+.copyright-rodape-2 {
+    font-size: 15px;
+    margin-left: 26%;
+    color: white;
+}
+
+.Side-bar {
+    height: 224.3%;
+    width: 20%;
+    background: rgba(253, 0, 0, 0.041) !;
+    margin-top: 6.8%;
+    position: absolute;
+}
+
+.menu {
+    margin-top: 8%;
+    margin-left: 2%;
+    color: black;
+    position: absolute;
+    cursor: pointer;
+}
+
+.animar {
+    animation-name: slide;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+
+ }
+ 
+ 
+ @keyframes slide {
+     from {
+         opacity: 0;
+     }
+     to {
+         transform: translateY(0);
+         opacity: 1;
+     }
+ }
+
+.menu:hover {
+    background-color: rgba(128, 128, 128, 0.384);
+}
+
+.cursos {
+    margin-top: 30%;
+    margin-left: 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    /* background: rgba(128, 255, 0, 0); */
+    border-color: rgba(128, 255, 0, 0);
+}
+
+/* .cursos:hover {
+    background-color: rgba(128, 128, 128, 0.384);
+} */
+
+
+
+#cursos-menu {
+    opacity: 0;
+    transform: translateY(-20px);
+}
+
+.lista {
+    margin-left: 95%;
+    margin-top: 1%;
+    color: white;
+}
+
+.lista:hover {
+    background: rgba(53, 53, 53, 0.13);
+    cursor: pointer;
+}
+
+.video-trailer {
+    margin-top: -3%;
+}
+
+#topicos {
+    opacity: 0;
+    transform: translateY(-20px);
+    position: absolute;
+    margin-left: 95%;
+    margin-top: 1%;
+    color: white;
+    cursor: pointer;
+}
+
+.home-icone-menu {
+    margin-bottom: 100%;
+}
+
+#topicos h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+  margin-left: -30%;
+  color: white;
+  position: absolute;
+  margin-top: -80%;
+}
+
+
+
+#topicos span {
+    margin-top: 30%;
+}
+
+#topicos h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+  margin-left: -73%;
+position: absolute;
+}
+
+.image {
+    height: 450%;
+    width: 350%;
+    margin-left: -45%;
+    margin-top: -32%;
+ 
+}
+
+
+.matricula-div {
+    color: white;
+}
+
+.home-div {
+    color: white;
+}
+
+.main-text {
+    margin-top: -63%;
+    position: absolute;
+    margin-right: 19%;
+   font-weight: bold;
+}
+
+#carouselExampleFade {
+   position: absolute;
+   margin-top: -45%;
+   margin-left: 20%;
+}
+
+.botão-sobre {
+ margin-top: -43%;
+    height: 100px;
+ width: 300px;  
+margin-left: -14%;
+ position: absolute;
+ font-size: 20px;
+}
+
+.botão-cursos {
+    margin-top: -27%;
+       height: 100px;
+    width: 300px;  
+   margin-left: -14%;
+    position: absolute;
+    font-size: 20px;
+   }
+   
+   .senai-historia-background {
+    background-image: url(Imagens\foto-1-back.jpg);
+    margin-top: 10%;
+    height: 1100px;
+}
